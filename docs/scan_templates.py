@@ -23,7 +23,7 @@ from ..families import (
     read_families, read_selected_families,
     FamilyNotFoundError
 )
-from ..waveforms import (
+from .waveforms import (
     get_waveform_from_client, cc_waveform_pair, get_arrivals,
     NoWaveformError
 )
