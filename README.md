@@ -7,20 +7,22 @@
 
 # Contenu du dépôt:
 
-  1/ scan_templates.py
+  1/ scan_templates.py 
+  
   2/ waveforms.py
+  
   3/ requake.conf
 
 # Description du dépôt:
 
-  1/ Ce fichier .py permet via la fonction scan_templates() de lancer un calcul de recherche par templates sur une longue plage de temps définie dans requake.conf.
+ Fichier 1/ : Ce fichier .py permet via la fonction scan_templates() de lancer un calcul de recherche par templates sur une longue plage de temps définie dans requake.conf.
      Il utilise un template au format .sac, associé à une famille supposée. La chaîne de calcul associée est détaillée dans la section 2.3 du rapport PDF.
 
-  2/ Ce second fichier .py gère les requêtes aux serveurs afin de renvoyer des données sismiques continues, exploitables par scan_templates.py . 
+ Fichier 2/ : Ce second fichier .py gère les requêtes aux serveurs afin de renvoyer des données sismiques continues, exploitables par scan_templates.py . 
      Le fichier gère aussi l'alignement des traces et les calculs mathématiques précédent l'affichage des traces (notamment les templates moyens) 
      via la commande "requake plot_families".
 
-  3/ Ce fichier .conf gère toutes les variables de type float ou string permettant de paramétrer les calculs de Requake.
+ Fichier 3/ : Ce fichier .conf gère toutes les variables de type float ou string permettant de paramétrer les calculs de Requake.
 
 
 
