@@ -1,4 +1,4 @@
-# Annexes - Rapport dde PDS: Détection de séismes répétés dans la subduction des Petites Antilles par template-matching (2025)#
+# Annexes - Rapport de PDS: Détection de séismes répétés dans la subduction des Petites Antilles par template-matching (2025)#
 
 > Ce dépôt contient 3 fichiers annexes reliés à l'étude présentée dans le rapport.
 > Ces trois fichiers sont des versions modifiées des codes de C. Satriano sur Requake (https://github.com/SeismicSource/requake).
