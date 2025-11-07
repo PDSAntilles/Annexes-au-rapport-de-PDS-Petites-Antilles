@@ -1,6 +1,6 @@
 # Annexes - Rapport de PDS: Détection de séismes répétés dans la subduction des Petites Antilles par template-matching (2025)#
 
-> Ce dépôt contient 3 fichiers de code annexes reliés à l'étude présentée dans le rapport, ainsi que deux grandes images plus simplement visualisables sur cette page Git.
+> Ce dépôt contient 5 fichiers, dont 3 fichiers de code annexes reliés à l'étude présentée dans le rapport, et 2 grandes images plus simplement visualisables sur cette page Git.
 > Les trois fichiers sont des versions modifiées des codes de C. Satriano sur Requake (https://github.com/SeismicSource/requake).
 > Bien que la majorité des fonctionnalités de Requake aient été utilisées telles quelles, certains fichiers ont été modifiés pour adapter 
   les calculs de template_matching aux longues périodes étudiées dans le cadre de ce PDS. Les codes utilisés sans modifications sont accessibles via le précédent lien GitHub.
